@@ -13,4 +13,6 @@ function divide(a, b){
 function inc(n) {
   return ++n
 };
-
+functino dec(n) {
+  return --n
+};
