@@ -7,5 +7,8 @@ function subtract(a, b){
 function multiply(a, b){
   return a*b
 }
-funtion 
+function divide(a, b){
+  reutnr a/b
+}
+
 
